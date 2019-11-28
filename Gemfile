@@ -10,3 +10,6 @@ group :development do
 	gem 'shotgun'
 	gem 'pry'
 end
+  gem 'activerecord', '5.2'
+  gem 'sinatra-activerecord'
+  gem 'rake'
